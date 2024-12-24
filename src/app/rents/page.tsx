@@ -1,7 +1,7 @@
-import { Rents } from "@/components/rents/Rents";
+import { RentsTable } from "@/components/rents/RentsTable";
 
 const page = () => {
-  return <Rents />;
+  return <RentsTable />;
 };
 
 export default page;

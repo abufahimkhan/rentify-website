@@ -1,7 +1,7 @@
-import Flats from '@/components/flats/Flats'
+import {FlatsTable} from '@/components/flats/FlatsTable'
 
 const page = () => {
-  return <Flats/>
+  return <FlatsTable/>
 }
 
 export default page

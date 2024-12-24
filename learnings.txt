@@ -1,0 +1,8 @@
+Understand Redux Workflow
+Redux revolves around:
+
+State: Centralized store holding your app's data.
+Actions: Describes what should happen.
+Reducers: Pure functions that determine how the state changes in response to actions.
+Dispatch: Sends actions to reducers.
+Selectors: Extract specific data from the store.
